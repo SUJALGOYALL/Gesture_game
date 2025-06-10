@@ -1,0 +1,5 @@
+# Requires Python >=3.9 and <=3.11
+opencv-python
+mediapipe
+numpy
+keyboard
