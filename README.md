@@ -34,8 +34,8 @@ Displays the current detected move on-screen using OpenCV.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/gesture-game-control.git
-cd gesture-game-control
+git clone https://github.com/SUJALGOYALL/Gesture_game.git
+cd Gesture_game
 ```
 
 2. Install dependencies:
@@ -43,7 +43,8 @@ Make sure you’re using Python 3.7+
 ```bash
 pip install opencv-python mediapipe numpy keyboard
 ```
-🚀 How to Run
+🚀 How to Run![Uploading Screenshot 2025-06-08 011703.png…]()
+
 ```bash
 python gesture_game.py
 ```
