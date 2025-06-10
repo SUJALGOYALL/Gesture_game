@@ -43,7 +43,7 @@ Make sure you’re using Python 3.7+
 ```bash
 pip install opencv-python mediapipe numpy keyboard
 ```
-🚀 How to Run![Uploading Screenshot 2025-06-08 011703.png…]()
+🚀 How to Run!
 
 ```bash
 python gesture_game.py
